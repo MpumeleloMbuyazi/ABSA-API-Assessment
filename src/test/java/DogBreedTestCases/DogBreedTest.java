@@ -20,7 +20,6 @@ public class DogBreedTest extends BaseClass{
     @Test(priority = 1)
     public void dogBreeds(){
 
-        ext.log(Status.INFO, "Dog Breeds Test Case is starting");
         ext = test.createTest("Dog Breed list");
 
             baseURI = "https://dog.ceo/api/breeds";
@@ -35,9 +34,7 @@ public class DogBreedTest extends BaseClass{
     @Test(priority = 4)
     public void subBreedsImages(){
 
-        ext.log(Status.INFO, "Dog Breeds Test Case is starting");
         ext = test.createTest("Display random image link for the golden retriever");
-
 
             baseURI = "https://dog.ceo/api/breed/retriever/golden/images/";
             given()
@@ -51,7 +48,6 @@ public class DogBreedTest extends BaseClass{
     @Test(priority = 2)
     public void subBreeds(){
 
-        ext.log(Status.INFO, "Dog Breeds Test Case is starting");
         ext = test.createTest("Verify the sub-breed of the retriever");
 
             baseURI = "https://dog.ceo/api/breed/retriever/";
@@ -65,8 +61,7 @@ public class DogBreedTest extends BaseClass{
     //Verify that retriever breed is on the dog breed list
     @Test(priority = 3)
     public void verifyBreed(){
-
-        ext.log(Status.INFO, "Dog Breeds Test Case is starting");
+        
         ext = test.createTest("Verify retriever is on breed list");
 
             given()
