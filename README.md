@@ -3,8 +3,7 @@
 This application contains test scripts for the DogBreed User List API.
 
 #### Running test
-1. Run the on java specific IDE.
-1. Run -Dtest=DodBreedTest.test maven command.
+1. Run the on java specific IDE. 
 
 #### Reporting
 1. Extent Report is generated to see test evidence and results
@@ -14,3 +13,4 @@ This application contains test scripts for the DogBreed User List API.
 1. TestNG
 1. Extent Reports
 1. Maven
+1. IntelliJ
