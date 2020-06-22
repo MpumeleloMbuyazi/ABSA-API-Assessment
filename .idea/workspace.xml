@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07351746-584d-40ae-9062-be8fd512e6c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/DogBreedAPI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DogBreedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DogBreedTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dUgJhU8ljfVYYH8iqwzD86tBIn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test1" type="TestNG">
+      <module name="RestAssured-API-Testing" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DogBreedTestCases.DogBreedTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07351746-584d-40ae-9062-be8fd512e6c3" name="Default Changelist" comment="" />
+      <created>1592485015311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592485015311</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Readme file">
+      <created>1592743398303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592743398303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Readme file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592490705664">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592490705664" />
+    <state x="1812" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1592570306252">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1812" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592570306252" />
+    <state x="1737" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592490682513">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1737" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592490682513" />
+    <state x="1610" y="0" key="CommitChangelistDialog2" timestamp="1592803419627">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1610" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592803419627" />
+    <state width="1281" height="213" key="GridCell.Tab.0.bottom" timestamp="1592803272706">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592803272706" />
+    <state width="1281" height="213" key="GridCell.Tab.0.center" timestamp="1592803272706">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592803272706" />
+    <state width="1281" height="213" key="GridCell.Tab.0.left" timestamp="1592803272706">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592803272706" />
+    <state width="1281" height="213" key="GridCell.Tab.0.right" timestamp="1592803272706">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592803272706" />
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom" timestamp="1592738926976">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592738926976" />
+    <state width="1281" height="213" key="GridCell.Tab.1.center" timestamp="1592738926976">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592738926976" />
+    <state width="1281" height="213" key="GridCell.Tab.1.left" timestamp="1592738926975">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592738926975" />
+    <state width="1281" height="213" key="GridCell.Tab.1.right" timestamp="1592738926976">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592738926976" />
+    <state x="1599" y="75" key="Vcs.Push.Dialog.v2" timestamp="1592766457821">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1599" y="75" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592766457821" />
+    <state x="1366" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1592796527709">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1366" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592796527709" />
+    <state x="1737" y="97" key="extract.method.dialog" timestamp="1592801764646">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1737" y="97" key="extract.method.dialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592801764646" />
+    <state x="1714" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1592549248417">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1714" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592549248417" />
+    <state x="1663" y="151" width="672" height="677" key="run.anything.popup" timestamp="1592569361848">
+      <screen x="1366" y="0" width="1280" height="680" />
+    </state>
+    <state x="1663" y="151" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592569361848" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DogBreedTestCases/BaseClass.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
