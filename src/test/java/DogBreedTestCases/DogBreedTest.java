@@ -61,7 +61,7 @@ public class DogBreedTest extends BaseClass{
     //Verify that retriever breed is on the dog breed list
     @Test(priority = 3)
     public void verifyBreed(){
-        
+
         ext = test.createTest("Verify retriever is on breed list");
 
             given()

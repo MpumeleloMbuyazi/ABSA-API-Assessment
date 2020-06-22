@@ -20,6 +20,7 @@ public class BaseClass {
     ExtentReports test;
     public ExtentTest ext;
 
+    //ExtentReports extent instance created here.
     public void report(){
 
         ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("Reports" + File.separator + "DogBreedAPI+"+ Helper.getCurrentDateTime() +".html");
