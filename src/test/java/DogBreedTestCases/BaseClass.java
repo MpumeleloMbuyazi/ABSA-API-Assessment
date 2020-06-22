@@ -1,5 +1,6 @@
 package DogBreedTestCases;
 
+import Utilities.ExcelUtils;
 import Utilities.Helper;
 import com.aventstack.extentreports.ExtentReporter;
 import com.aventstack.extentreports.ExtentReports;
@@ -14,13 +15,17 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeSuite;
 
 import java.io.File;
+import java.io.IOException;
 
 public class BaseClass {
 
+    public static ExcelUtils excel;
+    public static String excelPath;
+    public static String sheetName;
     ExtentReports test;
     public ExtentTest ext;
 
-    //ExtentReports extent instance created here.
+    //ExtentReports extent instance is created here.
     public void report(){
 
         ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("Reports" + File.separator + "DogBreedAPI+"+ Helper.getCurrentDateTime() +".html");
@@ -37,6 +42,7 @@ public class BaseClass {
 
     }
 
+    //This Method retrieves the test result for the extent report
     @AfterMethod
     public void getResults(ITestResult result) {
         if(result.getStatus()==ITestResult.FAILURE){
@@ -55,6 +61,17 @@ public class BaseClass {
         }
     }
 
+    public static void main(String[] args) throws Exception {
 
+        String SheetName = "./TestData/Data.xlsx";
+
+        excelPath = SheetName;
+        sheetName = "Sheet1";
+
+        excel = new ExcelUtils(excelPath, sheetName);
+        excel.getRowCount();
+        excel.getCellData(1, 0);
+
+    }
 
 }
