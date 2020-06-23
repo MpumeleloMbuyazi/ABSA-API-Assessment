@@ -3,18 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="07351746-584d-40ae-9062-be8fd512e6c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_06_49_18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_06_55_24.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_07_06_03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_07_07_09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_07_07_58.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI+06_22_2020_07_21_13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/DogBreedAPI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DogBreedTestCases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DogBreedTestCases/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/DogBreedTestCases/DogBreedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DogBreedTestCases/DogBreedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DogBreedTestCases/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DogBreedTestCases/BaseClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/DogBreedTestCases/DogBreedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DogBreedTestCases/DogBreedTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,27 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.BaseClass">
-    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DogBreedTestCases.BaseClass" />
-      <module name="RestAssured-API-Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DogBreedTestCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Utilities.ExcelUtils" />
-      <module name="RestAssured-API-Testing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Test1" type="TestNG">
       <module name="RestAssured-API-Testing" />
       <option name="SUITE_NAME" value="" />
@@ -91,16 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="TestNG.Test1" />
-      <item itemvalue="Application.BaseClass" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BaseClass" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -128,10 +88,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added Readme file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592834323736">
+    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592885624002">
       <screen x="1366" y="0" width="1280" height="680" />
     </state>
-    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592834323736" />
+    <state x="1462" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592885624002" />
     <state x="1812" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1592570306252">
       <screen x="1366" y="0" width="1280" height="680" />
     </state>
@@ -204,16 +164,5 @@
       <screen x="1366" y="0" width="1280" height="680" />
     </state>
     <state x="1669" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1592838380963" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/DogBreedTestCases/DogBreedTest.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

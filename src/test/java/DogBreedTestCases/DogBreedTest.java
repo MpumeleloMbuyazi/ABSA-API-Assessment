@@ -24,7 +24,7 @@ public class DogBreedTest extends BaseClass{
         //Performing a GET request to produce a list of all dog breeds
             baseURI = "https://dog.ceo/api/breeds";
             given()
-                    .get("/list")
+                    .get("/list/all")
                     .then()
                     .statusCode(200).log().all();
 
@@ -36,7 +36,7 @@ public class DogBreedTest extends BaseClass{
 
         ext = test.createTest("Display random image link for the golden retriever");
 
-            // Performing a GET request to produce a random image link for the sub-breed “golden"
+            //Performing a GET request to produce a random image link for the sub-breed “golden"
             baseURI = "https://dog.ceo/api/breed/retriever/golden/images/";
             given()
                     .get("/random")

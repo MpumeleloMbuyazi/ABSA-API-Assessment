@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DogBreedTestCases.DogBreedTest" duration-ms="5543" started-at="2020-06-23T06:22:10 CAT" finished-at="2020-06-23T06:22:16 CAT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5543" started-at="2020-06-23T06:22:10 CAT" finished-at="2020-06-23T06:22:16 CAT">
+      <class name="DogBreedTestCases.DogBreedTest">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="generateReport" is-config="true" duration-ms="122" started-at="2020-06-23T06:22:10 CAT" finished-at="2020-06-23T06:22:10 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="dogBreeds()[pri:1, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="dogBreeds" duration-ms="3138" started-at="2020-06-23T06:22:10 CAT" finished-at="2020-06-23T06:22:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dogBreeds -->
+        <test-method status="PASS" signature="getResults(org.testng.ITestResult)[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="getResults" is-config="true" duration-ms="5" started-at="2020-06-23T06:22:13 CAT" finished-at="2020-06-23T06:22:13 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=dogBreeds status=SUCCESS method=DogBreedTest.dogBreeds()[pri:1, instance:DogBreedTestCases.DogBreedTest@5622fdf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method status="PASS" signature="subBreeds()[pri:2, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="subBreeds" duration-ms="629" started-at="2020-06-23T06:22:13 CAT" finished-at="2020-06-23T06:22:14 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subBreeds -->
+        <test-method status="PASS" signature="getResults(org.testng.ITestResult)[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="getResults" is-config="true" duration-ms="1" started-at="2020-06-23T06:22:14 CAT" finished-at="2020-06-23T06:22:14 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=subBreeds status=SUCCESS method=DogBreedTest.subBreeds()[pri:2, instance:DogBreedTestCases.DogBreedTest@5622fdf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method status="PASS" signature="verifyBreed()[pri:3, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="verifyBreed" duration-ms="1133" started-at="2020-06-23T06:22:14 CAT" finished-at="2020-06-23T06:22:15 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBreed -->
+        <test-method status="PASS" signature="getResults(org.testng.ITestResult)[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="getResults" is-config="true" duration-ms="1" started-at="2020-06-23T06:22:15 CAT" finished-at="2020-06-23T06:22:15 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBreed status=SUCCESS method=DogBreedTest.verifyBreed()[pri:3, instance:DogBreedTestCases.DogBreedTest@5622fdf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method status="PASS" signature="subBreedsImages()[pri:4, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="subBreedsImages" duration-ms="614" started-at="2020-06-23T06:22:15 CAT" finished-at="2020-06-23T06:22:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subBreedsImages -->
+        <test-method status="PASS" signature="getResults(org.testng.ITestResult)[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="getResults" is-config="true" duration-ms="0" started-at="2020-06-23T06:22:16 CAT" finished-at="2020-06-23T06:22:16 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=subBreedsImages status=SUCCESS method=DogBreedTest.subBreedsImages()[pri:4, instance:DogBreedTestCases.DogBreedTest@5622fdf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method status="PASS" signature="flushReport()[pri:0, instance:DogBreedTestCases.DogBreedTest@5622fdf]" name="flushReport" is-config="true" duration-ms="251" started-at="2020-06-23T06:22:16 CAT" finished-at="2020-06-23T06:22:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- DogBreedTestCases.DogBreedTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- DogBreedTestCases.DogBreedTest -->
+</testng-results>
