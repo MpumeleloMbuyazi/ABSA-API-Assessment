@@ -14,7 +14,8 @@ This application contains test scripts for the DogBreed User List API.
 1. Use the maven command below to run all tests: mvn test 
 
 #### Reporting
-1. Extent Report is generated to see test evidence and results.
+1. Extent Report is generated to see the status of the test results.
+1. The test results can be seen in the console.
 1. The reports can be found in this file location "\RestAssured-API-Testing\Reports".
 
 #### Tools/Technology Used 
