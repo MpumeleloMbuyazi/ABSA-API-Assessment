@@ -10,7 +10,7 @@ This application contains test scripts for the DogBreed User List API.
 
 #### Running test
 1. Clone the following repo: https://github.com/MpumeleloMbuyazi/ABSA-API-Assessment
-1. Open the open the code in a java specific IDE e.g IntelliJ and click run/play button.
+1. Open the code in a java specific IDE e.g IntelliJ and click run/play button.
 1. Use the maven command below to run all tests: mvn test 
 
 #### Reporting

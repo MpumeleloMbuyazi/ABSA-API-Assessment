@@ -15,7 +15,7 @@ public class DogBreedTest extends BaseClass{
         report();
     }
 
-    //Displays list of all dog breeds.
+    //This test scenario displays list of all dog breeds.
     @Test(priority = 1)
     public void dogBreeds(){
 
@@ -30,7 +30,7 @@ public class DogBreedTest extends BaseClass{
 
     }
 
-    //Displays random link for the sub-breed "golden".
+    //This test scenario displays random link for the sub-breed "golden".
     @Test(priority = 4)
     public void subBreedsImages(){
 
@@ -44,7 +44,7 @@ public class DogBreedTest extends BaseClass{
                     .statusCode(200).log().all();
     }
 
-    //Verifies the sub-breeds for the retriever.
+    //This test scenario verifies the sub-breeds for the retriever.
     @Test(priority = 2)
     public void subBreeds(){
 
@@ -58,7 +58,7 @@ public class DogBreedTest extends BaseClass{
                     .statusCode(200).log().all();
     }
 
-    //Verify that retriever breed is on the dog breed list
+    //This test scenario verifies that the retriever breed is on the dog breed list
     @Test(priority = 3)
     public void verifyBreed() throws IOException {
 
@@ -72,7 +72,7 @@ public class DogBreedTest extends BaseClass{
 
     }
 
-    //This Method Generates the extent report
+    //This Method Generates the extent report and stores it in the report folder 
     @AfterSuite
     public void flushReport(){
         test.flush();
